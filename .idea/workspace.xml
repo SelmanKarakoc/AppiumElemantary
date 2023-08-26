@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="446e90aa-702e-4955-90bc-de907d3a118d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Apps/arabam.com_4.9.4_Apkpure.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/apkYukleme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arabamApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/KiwiPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/KiwiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilize/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilize/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/firstStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/firstStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/apkYukleme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/apkYukleme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/arabamApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/arabamApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/firstStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/firstStep.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +51,33 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\selma.DESKTOP-KJR7OP7\IdeaProjects\appium_elemantary\Apps" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Utilize" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.arabamApp.arabamtest">
+  <component name="RunManager" selected="TestNG.apkYukleme.setUp">
+    <configuration name="KiwiTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appium_elemantary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.KiwiTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="apkYukleme.setUp" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appium_elemantary" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="apkYukleme" />
+      <option name="MAIN_CLASS_NAME" value="Tests.apkYukleme" />
       <option name="METHOD_NAME" value="setUp" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -63,20 +89,8 @@
     <configuration name="arabamApp.arabamtest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appium_elemantary" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="arabamApp" />
+      <option name="MAIN_CLASS_NAME" value="Tests.arabamApp" />
       <option name="METHOD_NAME" value="arabamtest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="firstStep.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appium_elemantary" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="firstStep" />
-      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -87,7 +101,7 @@
     <configuration name="firstStep.test02" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appium_elemantary" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="firstStep" />
+      <option name="MAIN_CLASS_NAME" value="Tests.firstStep" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -99,7 +113,7 @@
     <configuration name="firstStep.toplama" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appium_elemantary" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="firstStep" />
+      <option name="MAIN_CLASS_NAME" value="Tests.firstStep" />
       <option name="METHOD_NAME" value="toplama" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -110,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.arabamApp.arabamtest" />
         <item itemvalue="TestNG.apkYukleme.setUp" />
+        <item itemvalue="TestNG.KiwiTest.test01" />
+        <item itemvalue="TestNG.arabamApp.arabamtest" />
         <item itemvalue="TestNG.firstStep.toplama" />
         <item itemvalue="TestNG.firstStep.test02" />
-        <item itemvalue="TestNG.firstStep.test01" />
       </list>
     </recent_temporary>
   </component>
