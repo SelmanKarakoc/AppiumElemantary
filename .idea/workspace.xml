@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="446e90aa-702e-4955-90bc-de907d3a118d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/KiwiPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/KiwiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utilize/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utilize/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/apkYukleme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/apkYukleme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/arabamApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/arabamApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/firstStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/firstStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/Kiwi.com - Book Cheap Flights_2023.32.0_Apkpure.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/KiwiPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/KiwiPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/KiwiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/KiwiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/apkYukleme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/apkYukleme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2UKfxA1d8eUFMaYbuimlyPgbyvc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,7 +52,7 @@
       <recent name="Utilize" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.apkYukleme.setUp">
+  <component name="RunManager" selected="TestNG.KiwiTest.test01">
     <configuration name="KiwiTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appium_elemantary" />
       <extension name="coverage">
@@ -124,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.apkYukleme.setUp" />
         <item itemvalue="TestNG.KiwiTest.test01" />
+        <item itemvalue="TestNG.apkYukleme.setUp" />
         <item itemvalue="TestNG.arabamApp.arabamtest" />
         <item itemvalue="TestNG.firstStep.toplama" />
         <item itemvalue="TestNG.firstStep.test02" />
@@ -153,5 +150,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/apkYukleme.java</url>
+          <line>24</line>
+          <properties class="Tests.apkYukleme" method="setUp">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

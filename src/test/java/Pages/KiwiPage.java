@@ -1,6 +1,9 @@
 package Pages;
 
 import Utilize.Driver;
+import io.appium.java_client.android.AndroidElement;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class KiwiPage {
@@ -8,5 +11,30 @@ public class KiwiPage {
         //PageFactory.initElements ((WebDriver)Driver.getAndroidDriver(),this);//bunu hoca yapti ama bunsuz da calisiyor
         PageFactory.initElements (Driver.getAndroidDriver(),this);
     }
+    @FindBy(xpath = "//*[@text='Continue as a guest']")
+    public WebElement asaGuest;
+
+    @FindBy(id = "com.skypicker.main:id/primary_button")
+    public WebElement continueButton;
+
+    @FindBy(id = "com.skypicker.main:id/search_type_label_text_view")
+    public WebElement oneWayIdButton;
+
+    @FindBy(xpath = "//*[@text='One way']")
+    public WebElement oneWayButton;
+
+    @FindBy(xpath = "//*[@text='From:']")
+    public WebElement fromButton;
+
+    @FindBy(id = "com.skypicker.main:id/button_search_input_delete")
+    public WebElement fromClose;
+
+    @FindBy(xpath = "//*[@text='Choose']")
+    public WebElement chooseButton;
+
+    @FindBy(xpath = "//*[@text='To:']")
+    public WebElement toButton;
+
+
 
 }
