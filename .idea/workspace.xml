@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="446e90aa-702e-4955-90bc-de907d3a118d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apps/Kiwi.com - Book Cheap Flights_2023.32.0_Apkpure.apk" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pages/KiwiPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/KiwiPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Tests/KiwiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/KiwiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/apkYukleme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/apkYukleme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
