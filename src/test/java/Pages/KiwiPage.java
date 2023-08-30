@@ -1,7 +1,6 @@
 package Pages;
 
-import Utilize.Driver;
-import io.appium.java_client.android.AndroidElement;
+import Utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

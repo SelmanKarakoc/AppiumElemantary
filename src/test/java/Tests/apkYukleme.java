@@ -20,7 +20,7 @@ public class apkYukleme {
     final String platformName="Android";
     final String platformVersion="10.0";
     final String automationName="UiAutomator2";
-    final String app="C:\\Users\\selma.DESKTOP-KJR7OP7\\IdeaProjects\\appium_elemantary\\Apps\\com.skypicker.main-5.94.2-free.apk";
+    final String app="C:\\Users\\selma.DESKTOP-KJR7OP7\\IdeaProjects\\appium_elemantary\\Apps\\Aile Bütçem_1.07_apkcombo.com.apk";
     @Test
     public void setUp() throws MalformedURLException {
 

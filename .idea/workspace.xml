@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="446e90aa-702e-4955-90bc-de907d3a118d" name="Changes" comment="" />
+    <list default="true" id="446e90aa-702e-4955-90bc-de907d3a118d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apps/arabam.com_4.9.4_Apkpure.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/KiwiPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/KiwiPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/KiwiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/KiwiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/apkYukleme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/apkYukleme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utilize/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilities/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utilize/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utilize/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilities/ReusableMethods.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +55,7 @@
       <recent name="Utilize" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.KiwiTest.test01">
+  <component name="RunManager" selected="TestNG.apkYukleme.setUp">
     <configuration name="KiwiTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appium_elemantary" />
       <extension name="coverage">
@@ -115,8 +124,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.KiwiTest.test01" />
         <item itemvalue="TestNG.apkYukleme.setUp" />
+        <item itemvalue="TestNG.KiwiTest.test01" />
         <item itemvalue="TestNG.arabamApp.arabamtest" />
         <item itemvalue="TestNG.firstStep.toplama" />
         <item itemvalue="TestNG.firstStep.test02" />
